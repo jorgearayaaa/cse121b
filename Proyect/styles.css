@@ -1,0 +1,47 @@
+/* Style Of Title */
+h1 {
+    text-align: center;
+    color: #007bff;
+}
+
+/* Form Style */
+form {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 400px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Style Flag Container */
+#flag-container {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 200px;
+}
+
+img {
+    max-width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
